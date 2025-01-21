@@ -29,7 +29,7 @@ This repository contains my analysis and solutions for the **[Titanic: Machine L
 
 ### Run the jupyter notebook
    ```bash
-   jupyter notebook Titanic_Survival_Analysis.ipynb
+   jupyter notebook Titanic-Survival-Analysis.ipynb
    ```
 ## Acknowledgments
 
