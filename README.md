@@ -42,7 +42,7 @@ This repository contains my analysis and solutions for the **[Titanic: Machine L
 
 The notebook provides insights into key factors affecting survival on the Titanic and demonstrates how feature engineering can significantly improve model predictions.
 
-This model has placed 2375th position in the contest with a score of `0.78468`
+This model has placed 2364^th position in the contest with a score of `0.78468`
 
 ---
 
